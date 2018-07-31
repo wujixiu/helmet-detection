@@ -8,7 +8,7 @@ and yellow. Besides, two different kind of models are fine-tuned for detection:
 * SSD + VGG16 (original implemention, high accuracy but low efficiency)
 * SSD + [Pelee](https://github.com/Robert-JunWang/Pelee) (for more detail, see the ICLR2018 workshop [paper](https://arxiv.org/pdf/1804.06882.pdf))
 
-**note: For some reasons, this project only provides the model for testing, and in the future we will release the training data.**
+**Note: For some reasons, this project only provides the model for testing, and in the future we will release the training data.**
 
 ## Preparation
 1.Install SSD (https://github.com/weiliu89/caffe/tree/ssd) following the instructions there.
