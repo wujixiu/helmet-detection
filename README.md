@@ -37,7 +37,7 @@ python ssd_pelee.py
 * VGG16 (97.6M)
 * Pelee (20.3M)
 
-[Google Drive](https://drive.google.com/file/d/1BANylV0M8IUTWvN_vX2BEMgx22Erx6ii/view?usp=sharing)
+[Google Drive](https://drive.google.com/drive/folders/1LPGFCNV4AxQvw32arX0g3lMnhnIgoTlH?usp=sharing)
 
 [Baidu Yun](https://pan.baidu.com/s/1-lFDPdhWF8haUwxXfynX7Q) (pwd:z4k9)
 
