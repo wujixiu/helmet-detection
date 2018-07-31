@@ -23,7 +23,7 @@ git clone https://github.com/wujixiu/helmet-detection.git
 ## Testing
 ```shell
 cd helmet-detection
-python ssd_vgg.py
+python ssd_pelee.py
 ```
 
 ## Results
