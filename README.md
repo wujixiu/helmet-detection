@@ -10,7 +10,7 @@ and yellow. Besides, two different kind of models are fine-tuned for detection:
 
 **note: For some reasons, this project only provides the model for testing, and in the future we will release the training data.**
 
-##Preparation
+## Preparation
 1.Install SSD (https://github.com/weiliu89/caffe/tree/ssd) following the instructions there.
 
 2.Clone this repository
@@ -20,20 +20,20 @@ git clone https://github.com/wujixiu/helmet-detection.git
 ```
 3.Download the models from Google Drive or Baidu Yun and put them in models/vgg or models/pelee respectively.
 
-##Testing
+## Testing
 ```shell
 cd helmet-detection
 python ssd_vgg.py
 ```
 
-##Results
+## Results
 ![results](test_imgs/001_results.jpg)
 ![results](test_imgs/003_results.jpg)
 ![results](test_imgs/005_results.jpg)
 ![results](test_imgs/004_results.jpg)
 ![results](test_imgs/002_results.jpg)
 
-##Models
+## Models
 * VGG16 (97.6M)
 * Pelee (20.3M)
 
