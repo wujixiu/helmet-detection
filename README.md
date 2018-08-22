@@ -4,9 +4,7 @@
 * caffe-ssd
 * opencv3 with ssd's layer API (optional for cpp inference, here using opencv3.4.2+vs2013).
 ## Introduction
-This project uses the SSD, one of most famous object detection frameworks, to detect whether a peron wearing the helmet 
-and what color the helmet is on construction sites. So far, it's able to detect 4 kind of colors, including red, blue, white
-and yellow. Besides, two different kind of models are fine-tuned for detection:
+This project uses the SSD, one of most famous object detection frameworks, to detect whether a person wearing the helmet and what color the helmet is on construction sites. So far, it's able to detect 4 kinds of colors, including red, blue, white and yellow. Besides, two different kinds of models are fine-tuned for detection:
 
 * SSD + VGG16 (original implemention, high accuracy but low efficiency)
 * SSD + [Pelee](https://github.com/Robert-JunWang/Pelee) (for more detail, see the ICLR2018 workshop [paper](https://arxiv.org/pdf/1804.06882.pdf))
@@ -14,8 +12,7 @@ and yellow. Besides, two different kind of models are fine-tuned for detection:
 
 **Note1: For some reasons, this project only provides the model for testing, and in the future we will release the training data.**
 
-**Note2: Although we assure the image preprocessing the same with original caffe, there're slightly differences between 
-the opencv3.4.2 and original caffe in ssd implementations. So there may be different performance in cpp and python inference.**
+**Note2: Although we assure the image preprocessing the same with original Caffe, there're slightly differences between the opencv3.4.2 and original Caffe in SSD implementations. So there may be a different performance in cpp and python inference.**
 ## Preparation
 1.Install SSD (https://github.com/weiliu89/caffe/tree/ssd) following the instructions there.
 
