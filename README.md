@@ -45,8 +45,7 @@ python ssd_pelee.py
 
 [Google Drive](https://drive.google.com/drive/folders/1LPGFCNV4AxQvw32arX0g3lMnhnIgoTlH?usp=sharing)
 
-[Baidu Yun](https://pan.baidu.com/s/1BB0Zogcey4cn0p3pd1d-vw) (pwd:m5uk)
-
+[Baidu Yun](https://pan.baidu.com/s/1UYAVsxLyDE8R_jFCISyEMw) (pwd:cgqh)
 
 
 
