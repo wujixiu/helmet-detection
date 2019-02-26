@@ -92,17 +92,17 @@ Notable that different models have different input size and different input scal
 
   The speeds are measured on a single Quadro M2000M 4GB GPU 😅.
 
-  ![](results\fps_map.svg)
+  ![](results/fps_map.svg)
 
 ## Examples
 
-![](imgs\00163.jpg)
+![](imgs/00163.jpg)
 
-![](imgs\00197.jpg)
+![](imgs/00197.jpg)
 
-![](imgs\00250.jpg)
+![](imgs/00250.jpg)
 
-![](imgs\00807.jpg)
+![](imgs/00807.jpg)
 
-![](imgs\00877.jpg)
+![](imgs/00877.jpg)
 
