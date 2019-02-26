@@ -1,0 +1,30 @@
+item {
+  name: "none_of_the_above"
+  label: 0
+  display_name: "background"
+}
+item {
+  name: "yellow"
+  label: 1
+  display_name: "yellow"
+}
+item {
+  name: "red"
+  label: 2
+  display_name: "red"
+}
+item {
+  name: "blue"
+  label: 3
+  display_name: "blue"
+}
+item {
+  name: "white"
+  label: 4
+  display_name: "white"
+}
+item {
+  name: "none"
+  label: 5
+  display_name: "none"
+}

@@ -1,0 +1,6 @@
+classes= 5
+train  = Hardhat/trainval.txt
+valid  = Hardhat/test.txt
+names = Hardhat/hardhat.names
+backup = Hardhat/backup
+
