@@ -13,7 +13,7 @@ This work tries to automate the monitoring of whether people are wearing hardhat
 2. Clone the SSD-RPA repository and compile the code.
 
    ```shell
-   git clone https://github.com/wujixiu/helmet-detection/hardhat-wearing-detection/SSD-RPA.git
+   git clone https://github.com/wujixiu/helmet-detection/tree/master/hardhat-wearing-detection/SSD-RPA.git
    
    cd SSD-RPA
    
