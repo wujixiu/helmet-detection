@@ -45,7 +45,7 @@ All models are based on Caffe.
 
 - C++
 
-  It is highly recommended to use [mini-caffe](https://github.com/luoyetx/mini-caffe) to deploy model for its portability, or OpenCV3 with SSD's layer is enough if you do not use our proposed models with RPA module.  Code with OpenCV3 deployment is available in [old version](https://github.com/wujixiu/helmet-detection/old-version). For mini-caffe deployment under Windows, we provide the complied files in mini-caffe-Release, or you can compile the mini-caffe yourself.  
+  It is highly recommended to use [mini-caffe](https://github.com/luoyetx/mini-caffe) to deploy model for its portability, or OpenCV3 with SSD's layer is enough if you do not use our proposed models with RPA module.  Code with OpenCV3 deployment is available in [old version](https://github.com/wujixiu/helmet-detection/tree/master/old-version). For mini-caffe deployment under Windows, we provide the complied files in mini-caffe-Release, or you can compile the mini-caffe yourself.  
 
 Notable that different models have different input size and different input scale. Details are shown below.
 
