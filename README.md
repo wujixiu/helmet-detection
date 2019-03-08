@@ -87,7 +87,7 @@ Notable that different models have different input size and different input scal
   - [Pelee-RPA(36.4MB)](https://pan.baidu.com/s/114AyAtf4YOaK6GFu6sLFJw)
   - [SSD-RPA300(162.6MB)](https://pan.baidu.com/s/1_igFVMLOiMfR-5QvVn6O3A)
   - [SSD-RPA512(158.9MB)](https://pan.baidu.com/s/1QZ0OJzaYlfpeRMM6pXDVgw)
-
+**Weights are available in [Google Drive](https://drive.google.com/drive/folders/12WtXQyM-7jWvWPtCXZlnycsIK72ClHgu?usp=sharing)**
 - Speed and accuracy distribution
 
   The speeds are measured on a single Quadro M2000M 4GB GPU 😅.
