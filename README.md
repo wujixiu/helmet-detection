@@ -110,8 +110,10 @@ Notable that different models have different input size and different input scal
 
 ## Citation
 Please cite the paper in your publications if it helps your research.
+
 Jixiu Wu, Nian Cai, Wenjie Chen, Huiheng Wang, Guotian Wang
 , Automatic detection of hardhats worn by construction personnel: A deep learning approach and benchmark dataset,
 Automation in Construction, 106(2019), 10.1016/j.autcon.2019.102894.
+
 Link to the paper.
 - [Automatic detection of hardhats worn by construction personnel: A deep learning approach and benchmark dataset](https://authors.elsevier.com/c/1ZOzK_L4MYHLYO)
